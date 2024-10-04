@@ -1,0 +1,11 @@
+!DRILL
+!Udrill
+bore14m
+Centre Drill
+CONTOUR
+extthr
+groove
+IntThr
+lefthand
+rhand
+rough
